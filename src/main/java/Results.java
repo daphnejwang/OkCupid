@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.List;
 
 /***
  * Results object contains the match results per profile.
@@ -7,8 +8,6 @@ import java.util.ArrayList;
  * @author dwang1
  *
  */
-
-import java.util.List;
 
 public class Results {
 	int profileId = -1;

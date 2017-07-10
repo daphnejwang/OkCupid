@@ -21,6 +21,5 @@ public class App {
         JsonElement je = jp.parse(JSONOutput);
         String prettyJsonString = gson.toJson(je);
         System.out.println(prettyJsonString);
-//        List<Match> listofMatches = okCupid.sortResultsList(results);
     }
 }
